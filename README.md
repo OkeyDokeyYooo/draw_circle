@@ -1,9 +1,9 @@
 # draw_circle
+------------
+## Requirements
 
-Requirements
 
-1. Create and add a single C source file called t1.c.
-2. t1.c should contain the function draw_circle() and agree exactly
+1. t1.c should contain the function draw_circle() and agree exactly
 with this function declaration:
 ```C
 void draw_circle( uint8_t img[], unsigned int cols, unsigned int rows,
