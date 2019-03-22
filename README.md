@@ -1,8 +1,8 @@
 # draw_circle
-------------
+============
 ## Requirements
 
-
+--------------
 1. t1.c should contain the function draw_circle() and agree exactly
 with this function declaration:
 ```C
