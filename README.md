@@ -3,7 +3,7 @@
 ## Requirements
 --------------
 
-1. I think you should have something like this will be in like a something contain the function draw_circle() and agree exactly with this function declaration as follow:
+1. I think you should have something like this will be in like a something that contain the function draw_circle() and agree exactly with this function declaration as follow:
 ```C
 void draw_circle( uint8_t img[], unsigned int cols, unsigned int rows,
 int x,
