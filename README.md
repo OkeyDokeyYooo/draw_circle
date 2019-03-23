@@ -22,8 +22,7 @@ set the color of any other pixel.
 with 0.5 rounded up to 1.
 
 ## Example
-This following shows that there is seomthing good for you, LOL, hahhahahahahah
-
+This following shows that there are something good for you.
 ```C
  draw_circle( img, 16 16, 8, 8, 1, 255);
  ```
